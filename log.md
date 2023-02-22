@@ -13,3 +13,15 @@
 **Thoughts:** Fascinating. Went down a rabbit hole a bit with The DOM method and references. Did't get the latter AT ALL at first. It was so interesting to get to know about it, not even exaggerating. But now I get it! When we create a complex data type (an object, array, function), we're actually creating a reference to a location in memory where it's stored. We can then use that reference to access and manipulate the values stored. And on the other hand, more primitive data types (strings, numbers, and booleans) are passed by value, rather than by reference. 
 
 Feeling like a child exploring the world for the first time, my motivation to keep learning is huge! But I have to go soon. See ya later!
+
+### Day 3: February 20, 2023
+
+**Today's Progress**: 2 hours done! Did the same thing as usual, today finishing the Passenger Counter project and the challanges!
+
+**Thoughts:** I wasn't THAT excited as 2 days ago, honestly. a little depressed. Pushed through
+
+### Day 4: February 22, 2023
+
+**Today's Progress**: 2 hours done! Started Black Jack game project, made notes. 
+
+**Thoughts:** It's funny how I always have an interval of 2 days lol. Well, I was in a bad place today (physically and mentally), was difficult to concentrate. Pushed through. 
