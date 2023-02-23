@@ -25,3 +25,8 @@ Feeling like a child exploring the world for the first time, my motivation to ke
 **Today's Progress**: 2 hours done! Started Black Jack game project, made notes. 
 
 **Thoughts:** It's funny how I always have an interval of 2 days lol. Well, I was in a bad place today (physically and mentally), was difficult to concentrate. Pushed through. 
+
+### Day 5: February 23, 2023
+
+**Today's Progress**: 2 hours again! Continued doing Black Jack, relearned about arrays, ways to modify them, made notes, started relearing loops :P
+**Thoughts:** I was being distracted a lot, so kinda slowed my progress. I think it's important that I'm showing up more often and doing what I can at least in the current circumstances, building the habiit. Also! Got to spend some time with the person I'm inspired by, so it adds to my motivation bit by bit. I'll be back!
