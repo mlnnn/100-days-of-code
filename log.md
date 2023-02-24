@@ -30,3 +30,9 @@ Feeling like a child exploring the world for the first time, my motivation to ke
 
 **Today's Progress**: 2 hours again! Continued doing Black Jack, relearned about arrays, ways to modify them, made notes, started relearing loops :P
 **Thoughts:** I was being distracted a lot, so kinda slowed my progress. I think it's important that I'm showing up more often and doing what I can at least in the current circumstances, building the habiit. Also! Got to spend some time with the person I'm inspired by, so it adds to my motivation bit by bit. I'll be back!
+
+### Day 6: February 24, 2023
+
+**Today's Progress**: TADUDUM! 5 HOURS DONE! I finihed Black Jack game project, where revisited array modifyers (push/pop, shift/unshift, splice/slice), loops, Math methods to generate pseudo random numbers, operators AND (&&) and OR (||) and objects.
+**Thoughts:** I didn't even get THAT tired. Immensly proud of myself. Of course, I don't expect to have the same level of performance even 3 times 
+ a week, it's gonna be a very spiky graph. But I'm clearly ONTO something. Satisfied!
