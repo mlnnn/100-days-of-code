@@ -34,5 +34,6 @@ Feeling like a child exploring the world for the first time, my motivation to ke
 ### Day 6: February 24, 2023
 
 **Today's Progress**: TADUDUM! 5 HOURS DONE! I finihed Black Jack game project, where revisited array modifyers (push/pop, shift/unshift, splice/slice), loops, Math methods to generate pseudo random numbers, operators AND (&&) and OR (||) and objects.
+
 **Thoughts:** I didn't even get THAT tired. Immensly proud of myself. Of course, I don't expect to have the same level of performance even 3 times 
- a week, it's gonna be a very spiky graph. But I'm clearly ONTO something. Satisfied!
+ a week, it's gonna be a very spiky graph. But I'm clearly ONTO something. Satisfied! (also, got an idea how to fix my previous mini project)
