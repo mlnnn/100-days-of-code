@@ -38,3 +38,12 @@ Feeling like a child exploring the world for the first time, my motivation to ke
 
 **Thoughts:** I didn't even get THAT tired. Immensly proud of myself. Of course, I don't expect to have the same level of performance even 3 times 
  a week, it's gonna be a very spiky graph. But I'm clearly ONTO something. Satisfied! (also, got an idea how to fix my previous mini project)
+ 
+ ### Day 7: February 25, 2023
+
+**Today's Progress**: 2 hours done! Would have done more if i didn't run out of the challanges, now I'm working on a password generator, its design.
+
+**Thoughts:** It was fun, it's so cool...to understand what I'm actually writing. Make my own solutions, try out different onse. My progress in designing so far:
+
+![image](https://user-images.githubusercontent.com/83187236/221381551-ed5187d9-7e72-44c1-8ff4-b277dfef9eeb.png)
+
