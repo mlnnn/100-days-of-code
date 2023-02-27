@@ -47,3 +47,12 @@ Feeling like a child exploring the world for the first time, my motivation to ke
 
 ![image](https://user-images.githubusercontent.com/83187236/221381551-ed5187d9-7e72-44c1-8ff4-b277dfef9eeb.png)
 
+### Day 8: February 26, 2023
+
+**Today's Progress**: (~1.5 hours done) I've finished my design and started coding it. Struggled a lot evenn with basic stuff. UGhh.
+
+**Thoughts:** Decided to get some rest and continue the next day. My design:
+
+![image](https://user-images.githubusercontent.com/83187236/221508191-eebd6a0d-25ed-4d3a-bc2d-b44711b1e707.png)
+
+
