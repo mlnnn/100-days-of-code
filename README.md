@@ -55,4 +55,13 @@ Feeling like a child exploring the world for the first time, my motivation to ke
 
 ![image](https://user-images.githubusercontent.com/83187236/221508191-eebd6a0d-25ed-4d3a-bc2d-b44711b1e707.png)
 
+### Day 9: February 28, 2023
+
+**Today's Progress**: A bazillion hours done. But I'll write it down as 2 hours. Fixed my design to fit properly. (it was gigantic), started coding out the actual app. figured i'd need flexbox (AND I DON'T KNOW HOW TO USE IT). Started playing the flexbox game about fighting zombies with flexbox (fun) https://mastery.games/flexboxzombies/
+
+**Thoughts:** It was tiring and frustrating. But the game was fun.
+
+![image](https://user-images.githubusercontent.com/83187236/221945758-a97193e5-94ea-4d6c-aacc-23e5e106865d.png)
+
+
 
