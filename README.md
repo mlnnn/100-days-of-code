@@ -71,4 +71,11 @@ Feeling like a child exploring the world for the first time, my motivation to ke
 
 ![image](https://user-images.githubusercontent.com/83187236/222371291-d2c78c2c-7c68-4137-b045-20c011ed6c85.png)
 
+### Day 11: March 2, 2023
+
+**Today's Progress**: Again, lots of guess work and try and fail situations today, so I won't log down the actual time spent. Let's put it as 1 hour. Kept correcting the spacing of elemets in the project, TRIED AND FAILED to make a checkbox (i hate them now).
+
+**Thoughts:** Nothing much to add. Except that I removed all the margins and used positioning instead. My progress:
+
+![image](https://user-images.githubusercontent.com/83187236/222486098-f769c66b-834d-4d41-b4f1-ce7367dcce44.png)
 
