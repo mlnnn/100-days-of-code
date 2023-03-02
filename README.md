@@ -63,5 +63,12 @@ Feeling like a child exploring the world for the first time, my motivation to ke
 
 ![image](https://user-images.githubusercontent.com/83187236/221945758-a97193e5-94ea-4d6c-aacc-23e5e106865d.png)
 
+### Day 10: March 1, 2023
+
+**Today's Progress**: I'll write it down as 1 solid hour. Coded out a tiny bit of the project.
+
+**Thoughts:** Eh, I had a REALLY bad day. Didn't have much strength and it's almost embarassing how long it took me to make a small change. I figured it's not the time for flexbox yet. I don't have much experience with it to use it in a project yet, it just does't look the way I want it to. Si this will have to wait. For now, I'm just using plain margin.
+
+![image](https://user-images.githubusercontent.com/83187236/222371291-d2c78c2c-7c68-4137-b045-20c011ed6c85.png)
 
 
