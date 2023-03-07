@@ -79,3 +79,13 @@ Feeling like a child exploring the world for the first time, my motivation to ke
 
 ![image](https://user-images.githubusercontent.com/83187236/222486098-f769c66b-834d-4d41-b4f1-ce7367dcce44.png)
 
+### Day 12: March 7, 2023
+
+**Today's Progress**: ~2 hours done. Tried to learn how to make custom checkboxes. Why are they so unnecessarily diffucult to make? Bruh. Coded out a bit of HTML and CSS.
+
+**Thoughts:** Felt really bad today, still I did something. My progress:
+
+![image](https://user-images.githubusercontent.com/83187236/223534858-dcd864ce-d763-4499-9d45-cc606bdb27af.png)
+
+
+
