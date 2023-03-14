@@ -87,5 +87,19 @@ Feeling like a child exploring the world for the first time, my motivation to ke
 
 ![image](https://user-images.githubusercontent.com/83187236/223534858-dcd864ce-d763-4499-9d45-cc606bdb27af.png)
 
+### Day 13: March 14, 2023
+
+**Today's Progress**: ~2 hours done. Added checkboxes, up and down thingies with a bit of animation for password length, hover effects for buttons and rusult spaces, added gif and fixed minor things.
+
+**Thoughts:** Apparently, checkboxes are not that beginner-friendly, who woulda thought lol. I used generator to help me with them. I think I'll finish with css tomorrow and start coding with JS. Check out my progress in the video below:
+
+https://www.loom.com/share/51bca132eed545beb579d9a56d7c7683
+
+or a screenshot:
+
+![image](https://user-images.githubusercontent.com/83187236/225022951-7d467559-5d1f-46a9-8424-b7db6fe94ec8.png)
+
+
+
 
 
