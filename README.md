@@ -99,6 +99,21 @@ or a screenshot:
 
 ![image](https://user-images.githubusercontent.com/83187236/225022951-7d467559-5d1f-46a9-8424-b7db6fe94ec8.png)
 
+### Day 14: March 29, 2023
+
+**Today's Progress**: 1 hour done. A bit of added elements and slight improvements for HTML and CSS.
+
+**Thoughts:** HIHI! I've been absent for the longest time, been dealing with something that made me really discouraged. Anyway, getting back into it! Didn't do too much, and honestly, felt cranky as I have't coded for while. But I'll try to get condistent again!
+![image](https://user-images.githubusercontent.com/83187236/228518388-bc7028e4-0538-4137-bafc-8a644aa395ff.png)
+lookin good, innit? 
+BUT BUT BUT I've encountered the freakiest bug that I have no idea how to fix. There's a stray "/div", which should do nothing for the structure, but if removed, messes up CSS badly. Though, when I inspect the code in browser, there's no sight of that "/div", meaning browsers ignore it. Annoying.
+But well, what can I do. I'll deal with this later.
+
+Honestly, I'm so sick of HTML and CSS now. This project was meant to be JS focused, but I decided to get CreAtiVe and spent weeks on my messy styling UGH. 
+Maybe a I chose a too complicated design? Like I can't unmess it for now, hope to be knowlegable enough to do that in future.
+About JS, I chose to make customized checkboxes, so I don't really know how to navigate them? and incorporate in JS. 
+also, i did a customized kinda input block? where you change the length of the password? i need to cap it to 8 and 15. aw......
+anyway, that was just me ranting, see you later!
 
 
 
