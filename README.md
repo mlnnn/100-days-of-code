@@ -115,6 +115,10 @@ About JS, I chose to make customized checkboxes, so I don't really know how to n
 also, i did a customized kinda input block? where you change the length of the password? i need to cap it to 8 and 15. aw......
 anyway, that was just me ranting, see you later!
 
+### Day 12: April 4, 2023
+
+**Today's Progress**: ~2 hours done. Made a huge progress with JS!
+
 
 
 
