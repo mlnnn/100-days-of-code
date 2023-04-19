@@ -119,6 +119,9 @@ anyway, that was just me ranting, see you later!
 
 **Today's Progress**: ~2 hours done. Made a huge progress with JS!
 
+### Day 13: April 19, 2023
+
+**Today's Progress**: A LOT OF TIME SPENT! ALMOST PERFECTLY WORKING JS I'LL BE FREE SOON! YAY! i've had the worst day ever and what to do when you'r exhausted and on the verge of a breakdown? GET BACK TO WORK IT'S ABOUT DRIVE IT'S ABOUT POWER oh my head hurts so much... see ya!
 
 
 
