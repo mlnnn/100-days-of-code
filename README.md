@@ -124,4 +124,8 @@ anyway, that was just me ranting, see you later!
 **Today's Progress**: A LOT OF TIME SPENT! ALMOST PERFECTLY WORKING JS I'LL BE FREE SOON! YAY! i've had the worst day ever and what to do when you'r exhausted and on the verge of a breakdown? GET BACK TO WORK IT'S ABOUT DRIVE IT'S ABOUT POWER oh my head hurts so much... see ya!
 
 
+### Day 14, 15, 16: some work on the layout of another short term project, 6 hours in total.
+
+
+
 
